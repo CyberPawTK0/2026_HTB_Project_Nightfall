@@ -7,3 +7,6 @@ Write ups from the 2026 HTB Business CTF/Global Skills Initiative:
 <br>59 out of 69 challenges complete
 <br>5 first bloods
 <br>67600 total points
+<br>
+<br>I contributed a total of 11,075 points earned
+<br>27 flags captured
